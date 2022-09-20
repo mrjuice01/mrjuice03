@@ -73,7 +73,9 @@
 <a href="http://t.me/HackersBot_2022bot"><img alt="Telegram bot" src="https://img.shields.io/badge/Telegram-Bhavik Tutorials-green"/></a>
  <a href="https://instagram.com/mr_juice7"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mr_juice7-ff69b4"/></a>
 [<img src="https://img.icons8.com/nolan/240/youtube.png" alt='YouTube' height='32'>](https://m.youtube.com/channel/UCK29cXcpU7LKQCldqOsPzgg)  
-[![My WhatsApp](https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/263780699988)
+<a href="https://wa.me/263780699988?text=Hi%20I%20Am%20From%20GitHub%20☺️">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
 #### If you have any queries or suggestions then you can contact me i will be happy to respond. 
 <br>
