@@ -45,6 +45,12 @@
 
 <br>
 
+![Github Badges](https://github-readme-stats.vercel.app/api?username=mrjuice01&show_icons=true&theme=vision-friendly-dark)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjuice01&layout=compact)](https://github.com/mrjuice01/github-readme-stats)<br>
+![My Profile Views](https://gpvc.arturio.dev/mrjuice01)
+<br>
 <br>
 <br>
 
