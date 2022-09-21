@@ -54,7 +54,7 @@
 <br>
 <br>
 
-<h2 align="center"> Running and improving my progress day by day...
+<h2 align="center"> I will keep running and improving my progress day by day...
 </h2>
 
 <p align="center">
