@@ -83,7 +83,12 @@
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Thanks+for+your+visit;+Follow+me+on+Instagram;+Bye+Have+a+good+Day"
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Thanks+for+your+visit;+Chat+me+below👇;+Bye+Have+a+good+Day"
+
+<!-- Contact Mr Juice -->
+<b><details><summary>Contact Owner Me</summary></b>
+
+## ```Connect With Me```
 
 ## Follow me on
 <a href="http://t.me/HackersBot_2022bot"><img alt="Telegram bot" src="https://img.shields.io/badge/Telegram-Bhavik Tutorials-green"/></a>
