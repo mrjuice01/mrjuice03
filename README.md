@@ -41,7 +41,7 @@
 <br>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FantoX001)](https://github.com/mrjuice01)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrjuice01)](https://github.com/mrjuice01)
 
 <br>
 
