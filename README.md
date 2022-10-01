@@ -54,6 +54,11 @@
 <br>
 <br>
 
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
+</p>
+
+
 <h2 align="center"> I will keep running and improving my progress day by day...
 </h2>
 
