@@ -91,7 +91,7 @@
 ## ```Connect With Mr Juice```
 
 ## Follow me on
-<a href="http://t.me/HackersBot_2022bot"><img alt="Telegram bot" src="https://img.shields.io/badge/Telegram-Bhavik Tutorials-green"/></a>
+<a href="http://t.me/HackersBot_2022bot"><img alt="Telegram bot" src="https://img.shields.io/badge/Telegram-DeveloperJuice-blue"/></a>
  <a href="https://instagram.com/mr_juice7"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mr_juice7-ff69b4"/></a>
 <a href="https://m.youtube.com/channel/UCK29cXcpU7LKQCldqOsPzgg"><img src="https://img.shields.io/badge/Subscribe MrJuuce-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
