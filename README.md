@@ -26,13 +26,13 @@
 <br>
 
 # My Recent Project:
-- [BayMax Bot (Multi Device)](https://github.com/mrjuice01/BayMax-bot-Beta)
+- [Bugs1 (Dangerous Virus)](https://github.com/mrjuice01/bugs1)
 <p align="left">
-   <a href="https://github.com/mrjuice01/BayMax-bot-Beta>
+   <a href="https://github.com/mrjuice01/bugs1>
     <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="300">  
 </p>
 
-<h3 align="left"> BayMax (Multi Device) WhatsApp Bot.
+<h3 align="left"> Bugs1 Tje Worst Android Nigtmare.
 </h3>
 <br><br><br>
 
