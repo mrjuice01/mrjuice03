@@ -32,7 +32,7 @@
     <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="300">  
 </p>
 
-<h3 align="left"> Bugs1 Tje Worst Android Nigtmare.
+<h3 align="left"> Bugs1 Powerfull Android & Ios Crusher.
 </h3>
 <br><br><br>
 
@@ -93,7 +93,7 @@
 ## Follow me on
 <a href="http://t.me/HackersBot_2022bot"><img alt="Telegram bot" src="https://img.shields.io/badge/Telegram-DeveloperJuice-blue"/></a>
  <a href="https://instagram.com/mr_juice7"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mr_juice7-ff69b4"/></a>
-<a href="https://m.youtube.com/channel/UCK29cXcpU7LKQCldqOsPzgg"><img src="https://img.shields.io/badge/Subscribe MrJuuce-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://www.youtube.com/@mrjuiceofc"><img src="https://img.shields.io/badge/Subscribe MrJuuce-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 <a href="https://wa.me/263780699988?text=Hi%20I%20Am%20From%20GitHub%20☺️">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
