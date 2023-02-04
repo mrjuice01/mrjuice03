@@ -16,11 +16,10 @@
 
 
 # My about:
-- Im currently a student.
-- Im currently learning I.T and Also How to become a Developer 
-- I'm intesested in both procedural languages(C, Bash) and object oriented language(Java, Python).
+•ᴅᴇᴠᴇʟᴏᴘᴇʀ|•|ᴄᴏᴅᴇʀ|•|ʙᴜɢ ʜᴏꜱᴛ ʜᴜɴᴛᴇʀ|•|ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ|•|ᴀɴᴅʀᴏɪᴅ ᴀᴘᴘ ʙᴜɪʟᴅᴇʀ|•|ᴡʜᴀᴛꜱᴘᴘ ᴍᴏᴅᴅᴇʀ|•|ᴀᴅʀᴏɪᴅ/ɪᴏꜱ ᴠɪʀᴜꜱ ᴄʀᴇᴀᴛ ᴀɴᴅ ᴀʟꜱᴏ ʏᴏᴜʀ ɢɪʀʟꜰʀɪᴇᴀɴᴅꜱ ᴄʀᴜꜱʜ• (𝙾𝙿𝚂 𝙸𝙼 𝚂𝙾𝚁𝚁𝚈 𝙸𝙵 𝚃𝙷𝙴 𝙻𝙰𝚂𝚃 𝙻𝙸𝙽𝙴 𝚆𝙰𝚂 𝚃𝙾𝙾 𝙿𝙴𝚁𝚂𝙾𝙽𝙰𝙻🙂😧😂) 
+- I'm intesested in Everything Related To Coding languages(C, Bash) and object oriented language(Java, Python).
 - My current ongoing projects are: Whatsapp Bot, Termux and Khali Srcipts.
-- Currently working on [Hackers-Bot](http://t.me/HackersBot_2022bot)
+- Currently working on [BayMax-Bot](https://github.com/mrjuice01/Baymax-v6)
 
 <br>
 <br>
