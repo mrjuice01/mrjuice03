@@ -98,9 +98,16 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
 
+
+
 #### If you have any queries or suggestions then you can contact me i will be happy to respond. 
 <br>
 
 
 
 https://www.canva.com/design/DAF0jbjW5No/j9ET2f5lCt2XYHCXjYL0eg/view?utm_content=DAF0jbjW5No&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
+
+
+[Copy of Navy & White Modern Professional Resume.pdf](https://github.com/mrjuice01/mrjuice03/files/13545827/Copy.of.Navy.White.Modern.Professional.Resume.pdf)
+
+
